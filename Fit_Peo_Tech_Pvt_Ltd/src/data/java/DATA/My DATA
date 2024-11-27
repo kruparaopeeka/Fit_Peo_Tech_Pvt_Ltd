@@ -1,0 +1,42 @@
+URL = https://www.fitpeo.com/
+
+RURL =//div[text()='Revenue Calculator']
+
+SLIDER = //span[@class='MuiSlider-thumb MuiSlider-thumbSizeMedium MuiSlider-thumbColorPrimary MuiSlider-thumb MuiSlider-thumbSizeMedium MuiSlider-thumbColorPrimary css-1sfugkh']
+
+ADJUSTSLIDER = //input[@id=':r0:']
+
+UPDATETEXTFIELD = //input[@id=':r0:']
+
+CHECKBOX1 = /html/body/div[2]/div[1]/div[2]/div[1]/label/span[1]/input
+
+CHECKBOX2 = /html/body/div[2]/div[1]/div[2]/div[2]/label/span[1]/input
+
+CHECKBOX3 = /html/body/div[2]/div[1]/div[2]/div[3]/label/span[1]/input
+
+CHECKBOX4 = /html/body/div[2]/div[1]/div[2]/div[4]/label/span[1]/input
+
+CHECKBOX5 = /html/body/div[2]/div[1]/div[2]/div[5]/label/span[1]/input
+
+CHECKBOX6 = /html/body/div[2]/div[1]/div[2]/div[6]/label/span[1]/input
+
+CHECKBOX7 = /html/body/div[2]/div[1]/div[2]/div[7]/label/span[1]/input
+
+CHECKBOX8 = /html/body/div[2]/div[1]/div[2]/div[8]/label/span[1]/input
+
+CHECKBOX9 = /html/body/div[2]/div[1]/div[2]/div[9]/label/span[1]/input
+
+CHECKBOX10 = /html/body/div[2]/div[1]/div[2]/div[10]/label/span[1]/input
+
+CHECKBOX11 = /html/body/div[2]/div[1]/div[2]/div[11]/label/span[1]/input
+
+CHECKBOX12 = /html/body/div[2]/div[1]/div[2]/div[12]/label/span[1]/input
+
+CHECKBOX13 = /html/body/div[2]/div[1]/div[2]/div[13]/label/span[1]/input
+
+CHECKBOX14 = /html/body/div[2]/div[1]/div[2]/div[14]/label/span[1]/input
+
+
+
+
+
